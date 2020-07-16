@@ -1,2 +1,2 @@
 # SimpleChattyBot
-JetBrains Project
+Re-made version of SimpleBot
